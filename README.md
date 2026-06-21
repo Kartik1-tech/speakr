@@ -1,13 +1,20 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tellr-1.0.0-4a9eff?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e">
-    <img alt="Tellr" src="https://img.shields.io/badge/Tellr-1.0.0-4a9eff?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e">
-  </picture>
-</p>
+<!--
+  SOCIAL PREVIEW
+  ────────────────────────────────────────────────────
+  Title:       Tellr — Voice dictation for your desktop
+  Description: Press one hotkey, speak naturally, and your words appear at the cursor in any app.
+               Open source desktop dictation. Zero compilation. One-click setup. Groq Whisper.
+  ────────────────────────────────────────────────────
+-->
+
+<h1 align="center">
+  🎙️ Tellr <sup><sub>v1.0.0</sub></sup>
+</h1>
 
 <p align="center">
-  <b>Desktop dictation for professionals.</b><br>
-  One global hotkey. Speak naturally. Text appears at your cursor — instantly, in any application.
+  <b>Voice dictation for your desktop.</b><br>
+  Press one hotkey. Speak naturally. Your words appear at the cursor — instantly, in any app.<br>
+  <sub>No compilation. Zero setup friction. Open source.</sub>
 </p>
 
 <p align="center">
