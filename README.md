@@ -1,9 +1,8 @@
 <!--
   SOCIAL PREVIEW
   ────────────────────────────────────────────────────
-  Title:       Speakr — Voice dictation for your desktop
-  Description: Press one hotkey, speak naturally, and your words appear at the cursor in any app.
-               Open source desktop dictation. Zero compilation. One-click setup. Groq Whisper.
+  Title:       Speakr — Free open source alternative to Wispr Flow
+  Description: Free open source alternative to Wispr Flow. Desktop voice dictation with global hotkey, Groq Whisper transcription, and auto-paste into any app. Zero compilation, no subscriptions, no telemetry.
   ────────────────────────────────────────────────────
 -->
 
@@ -12,19 +11,21 @@
 </h1>
 
 <p align="center">
-  <b>Voice dictation for your desktop.</b><br>
-  Press one hotkey. Speak naturally. Your words appear at the cursor — instantly, in any app.<br>
-  <sub>No compilation. Zero setup friction. Open source.</sub>
+  <b>Free open source alternative to Wispr Flow.</b><br>
+  Desktop voice dictation with global hotkey — press, speak, and text appears at your cursor in any app.<br>
+  Powered by Groq Whisper for sub-second transcription. No compilation, no subscriptions, no telemetry.
 </p>
 
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"></a>
   <a href="https://github.com/kartikpawar/speakr/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-success?style=flat-square" alt="MIT License"></a>
   <a href="https://console.groq.com/keys"><img src="https://img.shields.io/badge/powered%20by-Groq%20Whisper-FF6F00?style=flat-square" alt="Powered by Groq"></a>
+  <a href="https://github.com/kartikpawar/speakr"><img src="https://img.shields.io/badge/alternative-Wispr%20Flow-important?style=flat-square" alt="Alternative to Wispr Flow"></a>
   <br>
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20macOS%20%7C%20linux-lightgrey?style=flat-square" alt="Cross-platform">
   <img src="https://img.shields.io/badge/build-zero%20compilation-4a9eff?style=flat-square" alt="Zero Compilation">
   <img src="https://img.shields.io/badge/status-production%20ready-brightgreen?style=flat-square" alt="Production Ready">
+  <img src="https://img.shields.io/badge/voice%20dictation-free%20and%20open%20source-brightgreen?style=flat-square" alt="Free and Open Source">
 </p>
 
 ---
